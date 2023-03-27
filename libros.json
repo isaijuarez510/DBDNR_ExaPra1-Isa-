@@ -1,0 +1,72 @@
+[{
+  "_id": 1,
+  "titulo": "El Principito",
+  "autor": "Antoine de Saint-Exupéry",
+  "fecha_publicacion": "1943",
+  "paginas": "61",
+  "tipo": "fábula"
+},{
+  "_id": 2,
+  "titulo": "El Extranjero",
+  "autor": "Albert Camus",
+  "fecha_publicacion": "1942",
+  "paginas": "185",
+  "tipo": "novela",
+  "páginas": "185"
+},{
+  "_id": 3,
+  "titulo": "Sapiens",
+  "autor": "Yuval Noah Harari",
+  "fecha_publicacion": "2014",
+  "paginas": "496",
+  "tipo": "historia"
+},{
+  "_id": 4,
+  "titulo": "Un Mundo Feliz",
+  "autor": "Aldoux Huxley",
+  "fecha_publicacion": "1932",
+  "paginas": "256",
+  "tipo": "novela"
+},{
+  "_id": 5,
+  "titulo": "Don Quijote de la Mancha",
+  "autor": "Miguel de Cervantes",
+  "fecha_publicacion": "1605",
+  "paginas": "1345",
+  "tipo": "novela"
+},{
+  "_id": 6,
+  "titulo": "Cien Años de Soledad",
+  "autor": "Gabriel García Márquez",
+  "fecha_publicacion": "1967",
+  "paginas": "471",
+  "tipo": "novela"
+},{
+  "_id": 7,
+  "titulo": "La Sombra del Viento",
+  "autor": "Carlos Ruiz Zafón",
+  "fecha_publicacion": "2001",
+  "paginas": "400",
+  "tipo": "contemporáneo"
+},{
+  "_id": 8,
+  "titulo": "Rayuela",
+  "autor": "Julio Cortázar",
+  "fecha_publicacion": "1943",
+  "paginas": "752",
+  "tipo": "novela"
+},{
+  "_id": 9,
+  "titulo": "La Cabaña",
+  "autor": "Paul Young",
+  "fecha_publicacion": "2009",
+  "paginas": "256",
+  "tipo": "novela"
+},{
+  "_id": 10,
+  "titulo": "Por Trece Razones",
+  "autor": "Jay Asher",
+  "fecha_publicacion": "2017",
+  "paginas": "311",
+  "tipo": "drama"
+}]
